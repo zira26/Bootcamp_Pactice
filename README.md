@@ -7,7 +7,8 @@ we will practice the following
 *   create and switch to a new branch locally: git switch
 *   Make some changes! Create a new file and add, commit your change
 *   Push a local branch to a new remote branch. Use: git push --set-upstream origin <branch_name>
-* Open Pull Request
+
+### Open Pull Request
 - ***ONE:*** opens pull request and adds partner as reviewer
 #### Code Review
 - ***TWO:*** reviews changes and approves pull request
